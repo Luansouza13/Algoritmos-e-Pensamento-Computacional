@@ -1,6 +1,6 @@
 <h1 align="center"> CALCULADORA CIENTÍFICA -  ATUALIZADA COM FUNÇÕES - 2.0</h1>
 
-Este projeto é uma calculadora científica na linguagem C que suporta 36 funções, divididas em 33 funções matemáticas e funções de saída da calculadora, mostrar e limpar histórico. O usuário pode acessar o menu interativo para escolher a operação desejada.
+Este projeto é uma calculadora científica na linguagem C que suporta 36 funções, divididas em 33 funções matemáticas e 3 funções, incluindo de saída da calculadora, mostrar e limpar histórico. O usuário pode acessar o menu interativo para escolher a operação desejada.
 
 ## Tecnologias e Recursos Utilizados
 
@@ -38,7 +38,7 @@ Este projeto é uma calculadora científica na linguagem C que suporta 36 funç�
 ## Como usar este projeto?
 
 ### 1. Download
-Baixe o arquivo `calculadora cientifica.c` deste repositório.
+Baixe o arquivo `calculadoracomfuncoes.c` deste repositório.
 
 ### 2. Abrir na IDE ou ONLINE (GDB)
 - Abra o arquivo no Dev-C++, Code::Blocks, Visual Studio ou sua IDE de preferência
@@ -70,5 +70,6 @@ O código possui tratamento para erros.
 1-Divisão por zero  
 2-Raiz de número negativo  
 3-Logaritmo de número não positivo
+
 
 
