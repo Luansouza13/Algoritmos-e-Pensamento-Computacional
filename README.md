@@ -58,7 +58,7 @@ Baixe o arquivo `calculadoracomfuncoes.c` deste repositório.
 ### Exemplo 2: Celsius para Fahrenheit
 - Escolha a opção 21  
 - Digite o número em celsius 100  
-- 100 celsius sao 212 fahrenheit
+- 100 celsius são 212 fahrenheit
 
 ### Informações adicionais:
 
@@ -70,6 +70,7 @@ O código possui tratamento para erros.
 1-Divisão por zero  
 2-Raiz de número negativo  
 3-Logaritmo de número não positivo
+
 
 
 
